@@ -1,0 +1,4 @@
+"AadClientId": "9ab63087-f4a7-430e-8b90-6b70640a950c",
+  "AadSecret": "CVC8Q~fskNGCxVIM52ZzZAgtW4QYMbE_AAWTda_e",
+  "AadTenantDomain": "ashwin.pl",
+  "AadTenantId": "b8403b14-5fca-4d49-a5ff-1ddb7801c71b",
